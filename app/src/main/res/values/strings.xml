@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+    // String MainActivity
+    <string name="btn_Entrada">Entrada</string>
+
+    // String MainActivity
+    <string name="btn_info_Product1">INFO</string>
+    <string name="btn_info_Product2">INFO</string>
+    <string name="btn_info_Product3">INFO</string>
+    <string name="text_Product1">Producto 1</string>
+    <string name="text_Product2">Producto 2</string>
+    <string name="text_Product3">Producto 3</string>
+    <string name="text_title_Entrada">Entrada</string>
+</resources>
